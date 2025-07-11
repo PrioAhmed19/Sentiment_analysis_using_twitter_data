@@ -71,8 +71,6 @@ These datasets are downloaded from a Dropbox link specified within the notebook.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
-[Your Name/Organization Name]
-[Your Contact Information (e.g., GitHub Profile, Email)]
+If you need any help dont hesistate to contact at : refatahmed@iut-dhaka.edu
 
 
