@@ -1,0 +1,22 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Data files (if any are generated or downloaded)
+dataset/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+thumbs.db
+
