@@ -27,7 +27,7 @@ This repository contains a Jupyter Notebook for performing sentiment analysis on
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   git clone https://github.com/PrioAhmed19/sentiment-analysis.git
    cd sentiment-analysis
    ```
 2. Install the required Python packages:
